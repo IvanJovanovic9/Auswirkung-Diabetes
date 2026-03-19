@@ -60,7 +60,7 @@ div {
     height: auto;
   }
 
-  div {
+  .content {
     margin-left: 0;
   }
 }
