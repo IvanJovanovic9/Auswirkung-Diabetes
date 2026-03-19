@@ -47,7 +47,7 @@ li a:hover:not(.active) {
 
 div {
   line-height: 1.4;
-  margin-left: 180px; /* prevents overlap with sidebar */
+  margin-left: 180px; 
   letter-spacing: 1px;
   font-size: 20px;
 }
@@ -63,4 +63,9 @@ div {
   .content {
     margin-left: 0;
   }
+}
+
+.content {
+  margin-left: 170px;
+  box-sizing: border-box;
 }
