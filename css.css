@@ -53,9 +53,15 @@ div {
 }
 
 
+
+
 @media screen and (max-width: 768px) {
   ul {
     position: relative;
     width: 100%;
     height: auto;
   }
+.content {
+  margin-left: 170px;
+  box-sizing: border-box;
+}
